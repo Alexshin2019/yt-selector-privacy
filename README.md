@@ -1,1 +1,0 @@
-# yt-selector-privacy
